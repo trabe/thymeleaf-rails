@@ -3,7 +3,7 @@
 Simple Rails support for [Thymeleaf.rb](https://github.com/trabe/thymeleaf-rb)
 (a ruby port of [Thymeleaf](http://www.thymeleaf.org, a natural templating engine)).
 
-**This is a Work In Progress Project. It is not ready for production use **
+**This is a Work In Progress Project. It is not ready for production use**
 
 ## Usage
 
